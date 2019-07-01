@@ -1,4 +1,4 @@
-# Learn Python the Hard W,ay
+# Learn Python the Hard Way
 # Accessed from https://learnpythonthehardway.org/python3/
 # Exercise 3: Numbers and Math
 # Christopher Murray
